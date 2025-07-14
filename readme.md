@@ -1,3 +1,5 @@
-Sou um Desenvolvedor Backend, formado em Análise e Desenvolvimento de Sistemas e constantemente aprimorando meus conhecimentos em Python, JavaScript, Java, C++, Haskell, SQL e NoSQL. Além disso, busco sempre estar atualizado em Padrões de Projetos, Programação Funcional e Algoritmos.
+Trabalho como desenvolvedor no Itaipu Parquetec, onde integro a equipe de Arquitetura e Processamento de Dados e participo de diversos projetos que envolvem uma ampla variedade de tecnologias.
 
-Com 15 anos de experiência como Designer Gráfico e 8 anos como Corretor da Bolsa de Valores, uso essa expertise para complementar minha carreira como desenvolvedor. Visite meu site pessoal para conhecer mais sobre meu trabalho: [lucasmantuan.com.br](https://lucasmantuan.com.br)
+Sou formado em Análise e Desenvolvimento de Sistemas e estou constantemente aprimorando meus conhecimentos em Python, JavaScript, Java, C++, Haskell, SQL e NoSQL. Além disso, mantenho-me atualizado em padrões de projeto, programação funcional, algoritmos e técnicas de otimização.
+
+Com 15 anos de experiência como designer gráfico e 8 anos como corretor da bolsa de valores, aplico essa bagagem multidisciplinar para complementar minha carreira como desenvolvedor. Para saber mais sobre meu trabalho, acesse [lucasmantuan.com.br](https://lucasmantuan.com.br)
